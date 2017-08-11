@@ -29,7 +29,7 @@
       <div class="sidebar" data-color="blue">
       <div class="logo">
         <a href="./" class="simple-text">
-          BookMedik
+          MediSoft
         </a>
       </div>
 
@@ -136,14 +136,10 @@
           <nav class="pull-left">
             <ul>
               <li>
-                <a href="./?view=changelog" >
-                  Log de cambios
-                </a>
+
               </li>
               <li>
-                <a href="http://evilnapsis.com/" target="_blank">
-                  Evilnapsis
-                </a>
+
               </li>
         <!--
               <li>
@@ -165,7 +161,7 @@
             </ul>
           </nav>
           <p class="copyright pull-right">
-            <a href="http://evilnapsis.com" target="_blank">Evilnapsis</a> &copy; 2016 
+
           </p>
         </div>
       </footer>
